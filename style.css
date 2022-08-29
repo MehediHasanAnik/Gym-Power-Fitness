@@ -3,22 +3,23 @@
   padding: 0;
 }
 body {
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  font-family: "Italiana", serif;
 }
 
 /* nav starts */
-.menubar {
+.menu_container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #000000;
   color: #ffffff;
-  display: flex;
-  justify-content: space-between;
-  background: #000000;
-  align-items: center;
+  padding: 5px;
 }
-.menu_items ul {
+.menu_items {
   display: flex;
-  margin: 10px;
-  padding: 10px;
+}
+.menu_items li {
   list-style: none;
-}
-.menu_items ul li {
-  padding: 10px;
 }
