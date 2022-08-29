@@ -4,3 +4,21 @@
 }
 body {
 }
+
+/* nav starts */
+.menubar {
+  color: #ffffff;
+  display: flex;
+  justify-content: space-evenly;
+  background: #000000;
+  align-items: center;
+}
+.menu_items ul {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  list-style: none;
+}
+.menu_items ul li {
+  padding: 10px;
+}
