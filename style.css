@@ -12,14 +12,21 @@ h1 {
 /* nav starts */
 .menu_container {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   background-color: #000000;
   color: #ffffff;
-  padding: 5px;
+  padding: 10px 100px;
 }
 .menu_items {
   display: flex;
 }
 .menu_items li {
   list-style: none;
+  margin: 5px;
+  padding: 5px;
+  font-size: 18px;
+}
+.menu_items li:hover {
+  color: blue;
+  cursor: grab;
 }
