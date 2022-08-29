@@ -9,7 +9,7 @@ body {
 .menubar {
   color: #ffffff;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   background: #000000;
   align-items: center;
 }
