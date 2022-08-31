@@ -81,3 +81,8 @@ h1 {
 .banner_link:hover {
   background: blue;
 }
+/* overview */
+.overview_card {
+  width: 30%;
+  border: 1px solid black;
+}
