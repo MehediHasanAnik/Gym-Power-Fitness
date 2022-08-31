@@ -82,6 +82,9 @@ h1 {
   background: blue;
 }
 /* overview */
+section.overview {
+  padding: 50px 0;
+}
 .overview_title {
   text-align: center;
   padding: 50px 0;
@@ -106,6 +109,12 @@ h1 {
   margin-left: 5%;
   border: 1px solid gray;
   box-shadow: 2px 2px 10px grey;
+  margin-top: 10px;
+}
+.overview_card:hover {
+  border: 1px solid red;
+  margin-top: 0px;
+  transition-duration: 0.5s;
 }
 .overview_card_contents {
   padding: 15px;
