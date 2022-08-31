@@ -86,3 +86,15 @@ h1 {
   width: 30%;
   border: 1px solid black;
 }
+.overview_img img {
+  width: 80px;
+}
+.overview_img {
+  text-align: center;
+}
+.overview_card {
+  width: 30%;
+  margin-left: 5%;
+  border: 1px solid gray;
+  box-shadow: 2px 2px 10px grey;
+}
