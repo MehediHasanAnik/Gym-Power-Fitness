@@ -82,16 +82,17 @@ h1 {
   background: blue;
 }
 /* overview */
-.overview_card {
-  width: 30%;
-  border: 1px solid black;
+.overview_cards {
+  display: flex;
 }
+
 .overview_img img {
   width: 80px;
 }
 .overview_img {
   text-align: center;
 }
+
 .overview_card {
   width: 25%;
   margin-left: 5%;
