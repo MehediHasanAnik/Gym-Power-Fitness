@@ -80,6 +80,7 @@ h1 {
 }
 .banner_link:hover {
   background: blue;
+  transition-duration: 2s;
 }
 /* overview */
 section.overview {
@@ -116,7 +117,4 @@ section.overview {
   border: 1px solid red;
   margin-top: 0px;
   transition-duration: 0.5s;
-}
-.overview_card_contents {
-  padding: 15px;
 }
