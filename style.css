@@ -118,3 +118,6 @@ section.overview {
   margin-top: 0px;
   transition-duration: 0.5s;
 }
+.overview_card_contents {
+  padding: 15px;
+}
