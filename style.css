@@ -124,6 +124,8 @@ section.overview {
 /* about us */
 .about_us_container {
   display: flex;
+  background: #000000;
+  color: #ffffff;
 }
 .about_us_left {
   width: 45%;
