@@ -122,10 +122,12 @@ section.overview {
   padding: 15px;
 }
 /* about us */
-.about_us_container {
-  display: flex;
+.about_us_section {
   background: #000000;
   color: #ffffff;
+}
+.about_us_container {
+  display: flex;
 }
 .about_us_left {
   width: 45%;
