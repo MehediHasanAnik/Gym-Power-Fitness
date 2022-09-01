@@ -127,14 +127,17 @@ section.overview {
 }
 .about_us_left {
   width: 45%;
-  margin-left: 5%;
-  border: 1px solid red;
 }
 .about_us_right {
   width: 45%;
   margin-left: 5%;
-  border: 1px solid #000000;
 }
 .about_us_images {
   display: flex;
+  margin-top: 50px;
+}
+.about_us_images img {
+  width: 350px;
+  height: 550px;
+  transform: skewY(-15deg);
 }
