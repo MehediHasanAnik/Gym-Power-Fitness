@@ -121,3 +121,7 @@ section.overview {
 .overview_card_contents {
   padding: 15px;
 }
+/* about us */
+.about_us_container {
+  display: flex;
+}
