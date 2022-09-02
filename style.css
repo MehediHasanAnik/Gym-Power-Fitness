@@ -177,3 +177,8 @@ section.overview {
   background-position: center;
   background-size: contain;
 }
+.inqury_descrption {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
