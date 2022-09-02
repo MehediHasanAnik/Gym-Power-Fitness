@@ -139,10 +139,13 @@ section.overview {
 .about_us_left {
   width: 45%;
   margin-left: 5%;
+  border-top: 1px solid red;
 }
 .about_us_right {
   width: 45%;
-  margin-left: 5%;
+  margin-right: 4%;
+  border-top: 1px solid grey;
+  margin-left: 1%;
 }
 .about_us_images {
   display: flex;
