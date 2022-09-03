@@ -189,3 +189,9 @@ section.overview {
   justify-content: space-around;
   align-items: center;
 }
+.inqury_title h1 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
