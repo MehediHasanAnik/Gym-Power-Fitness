@@ -215,5 +215,6 @@ section.overview {
   margin-left: 4%;
 }
 .service_img img {
-  width: 80%;
+  width: 100%;
+  object-fit: cover;
 }
