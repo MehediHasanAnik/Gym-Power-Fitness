@@ -234,3 +234,9 @@ section.overview {
   display: flex;
   justify-content: space-between;
 }
+.service_des p {
+  color: red;
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
