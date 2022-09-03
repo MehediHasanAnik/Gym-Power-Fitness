@@ -175,10 +175,16 @@ section.overview {
   background-image: url("/images/shape/Group_33094_1.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
-  width: 100%;
+  background-size: cover;
+  width: 60%;
+  height: 20vh;
+  padding: 40px 0;
+  margin: 50px auto;
+  border-radius: 20px;
 }
 .inqury_descrption {
+  height: 20vh;
+  width: 100%;
   display: flex;
   justify-content: space-around;
   align-items: center;
