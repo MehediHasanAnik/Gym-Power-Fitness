@@ -211,3 +211,6 @@ section.overview {
 .service_card {
   width: 30%;
 }
+.service_img img {
+  width: 80%;
+}
