@@ -208,6 +208,9 @@ section.overview {
   text-align: center;
   padding: 38px 0;
 }
+.services_cards {
+  display: flex;
+}
 .service_card {
   width: 30%;
   box-shadow: 8px 8px 16px rgb(17, 16, 16);
