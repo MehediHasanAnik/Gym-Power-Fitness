@@ -176,6 +176,7 @@ section.overview {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
+  width: 100%;
 }
 .inqury_descrption {
   display: flex;
