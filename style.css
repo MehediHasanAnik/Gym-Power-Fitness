@@ -230,3 +230,7 @@ section.overview {
 .service_price {
   padding: 10px;
 }
+.service_price {
+  display: flex;
+  justify-content: space-between;
+}
