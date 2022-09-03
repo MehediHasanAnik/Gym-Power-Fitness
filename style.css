@@ -221,6 +221,12 @@ section.overview {
 .service_des {
   padding: 10px;
 }
+.service_des p {
+}
+.service_des h2 {
+}
+.service_des span {
+}
 .service_price {
   padding: 10px;
 }
