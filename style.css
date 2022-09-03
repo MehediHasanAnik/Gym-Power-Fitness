@@ -218,3 +218,9 @@ section.overview {
   width: 100%;
   object-fit: cover;
 }
+.service_des {
+  padding: 10px;
+}
+.service_price {
+  padding: 10px;
+}
