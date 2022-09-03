@@ -203,6 +203,10 @@ section.overview {
   border: 1px solid #ffffff;
 }
 /* services */
+section.our_services {
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
 .our_services_title h1 {
   font-size: 30px;
   text-align: center;
@@ -210,12 +214,13 @@ section.overview {
 }
 .services_cards {
   display: flex;
+  padding: 0px 50px 0 40px;
 }
 .service_card {
   width: 30%;
   box-shadow: 8px 8px 16px rgb(17, 16, 16);
   border-radius: 5px;
-  margin-left: 4%;
+  margin-left: 35px;
 }
 .service_img img {
   width: 100%;
@@ -249,6 +254,10 @@ section.overview {
   font-size: 20px;
   font-weight: 600;
   padding-bottom: 10px;
+}
+.service_des span {
+  font-size: 15px;
+  font-weight: 600;
 }
 .service_des span {
   font-size: 15px;
