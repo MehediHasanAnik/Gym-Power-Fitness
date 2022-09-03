@@ -234,6 +234,13 @@ section.overview {
   display: flex;
   justify-content: space-between;
 }
+.service_price h3 {
+  font-size: 30px;
+}
+.service_price p {
+  font-size: 20px;
+  color: red;
+}
 .service_des p {
   color: red;
   font-size: 20px;
