@@ -208,3 +208,6 @@ section.overview {
   text-align: center;
   padding: 38px 0;
 }
+.service_card {
+  width: 30%;
+}
