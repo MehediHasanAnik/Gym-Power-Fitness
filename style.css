@@ -286,3 +286,9 @@ footer {
   gap: 20px;
   padding: 5px 0;
 }
+
+.social_media h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #282323b0;
+}
