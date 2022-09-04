@@ -206,6 +206,7 @@ section.overview {
 section.our_services {
   padding-top: 20px;
   padding-bottom: 100px;
+  position: relative;
 }
 .our_services_title h1 {
   font-size: 30px;
