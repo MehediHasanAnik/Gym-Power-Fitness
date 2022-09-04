@@ -207,6 +207,7 @@ section.our_services {
   padding-top: 20px;
   padding-bottom: 100px;
   position: relative;
+  overflow: hidden;
 }
 .our_services_title h1 {
   font-size: 30px;
@@ -261,7 +262,11 @@ section.our_services {
   font-weight: 600;
 }
 .batch_logo {
+  position: relative;
+  left: 802px;
+  overflow: hidden;
+  top: 65px;
 }
 .batch_logo img {
-  width: 50px;
+  width: 80px;
 }
