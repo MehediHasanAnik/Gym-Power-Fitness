@@ -272,3 +272,8 @@ section.our_services {
 .batch_logo img {
   width: 80px;
 }
+.horiontal_line {
+  padding: 31px 0;
+  width: 90%;
+  margin: 0 auto;
+}
