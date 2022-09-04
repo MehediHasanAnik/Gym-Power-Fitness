@@ -210,8 +210,10 @@ section.our_services {
   overflow: hidden;
 }
 .our_services_title h1 {
-  font-size: 30px;
+  font-size: 45px;
   text-align: center;
+  font-weight: 800;
+  font-style: italic;
 }
 .services_cards {
   display: flex;
