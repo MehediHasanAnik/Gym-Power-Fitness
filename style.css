@@ -296,3 +296,6 @@ footer {
   font-size: 15px;
   font-weight: 700;
 }
+.footer_para span {
+  color: red;
+}
