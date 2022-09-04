@@ -292,3 +292,7 @@ footer {
   font-weight: 700;
   color: #282323b0;
 }
+.footer_para p {
+  font-size: 15px;
+  font-weight: 700;
+}
