@@ -280,3 +280,9 @@ section.our_services {
 footer {
   text-align: center;
 }
+.social_media {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 5px 0;
+}
