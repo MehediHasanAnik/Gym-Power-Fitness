@@ -218,7 +218,6 @@ section.our_services {
 .services_cards {
   display: flex;
   padding: 0px 50px 0 40px;
-  margin-top: -60px;
 }
 .service_card {
   width: 30%;
@@ -267,7 +266,7 @@ section.our_services {
   position: relative;
   left: 802px;
   overflow: hidden;
-  top: 12px;
+  top: 61px;
 }
 .batch_logo img {
   width: 80px;
