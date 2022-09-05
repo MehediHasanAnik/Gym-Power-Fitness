@@ -214,6 +214,7 @@ section.our_services {
   text-align: center;
   font-weight: 800;
   font-style: italic;
+  padding: 30px 0;
 }
 .services_cards {
   display: flex;
@@ -266,7 +267,7 @@ section.our_services {
   position: relative;
   left: 802px;
   overflow: hidden;
-  top: 61px;
+  top: 101px;
 }
 .batch_logo img {
   width: 80px;
@@ -295,6 +296,9 @@ footer {
 .footer_para p {
   font-size: 15px;
   font-weight: 700;
+}
+.footer_para span {
+  color: #ff0707;
 }
 .footer_para span {
   color: #ff0707;
