@@ -300,3 +300,15 @@ footer {
 .footer_para span {
   color: #ff0707;
 }
+.social_media h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #282323b0;
+}
+.footer_para p {
+  font-size: 15px;
+  font-weight: 700;
+}
+.footer_para span {
+  color: #ff0707;
+}
